@@ -64,3 +64,5 @@ body {
   text-align: center;
   margin: 30px auto 30px;
 }
+.display-container li {
+  margin:5px 0;
